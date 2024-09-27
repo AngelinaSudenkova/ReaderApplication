@@ -24,7 +24,7 @@ Here are some screenshots of the AReader Application:
 | *Search Screen*                | *Add Book Screen*           | *Main Screen (book added)*                |
 
 
-![addingComments](https://github.com/user-attachments/assets/c885c2ce-15aa-49c8-816f-fcb3531958b3)|![statiscticsRead](https://github.com/user-attachments/assets/1098d45c-af5c-4a79-816d-b1621a6502c5| 
+![addingComments](https://github.com/user-attachments/assets/c885c2ce-15aa-49c8-816f-fcb3531958b3)|![statiscticsRead](https://github.com/user-attachments/assets/1098d45c-af5c-4a79-816d-b1621a6502c5)| 
 |--------------------------------------|--------------------------------|
 | *Book Details Screen*                | *User Stats Screen*           |
 
